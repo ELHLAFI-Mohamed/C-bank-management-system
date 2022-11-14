@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668392537 source:c:\users\mohamed el hlafi\desktop\c bank management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"new_acc.h"
+
+1668391648 c:\users\mohamed el hlafi\desktop\c bank management system\new_acc.h
+
